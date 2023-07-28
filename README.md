@@ -12,11 +12,7 @@
 <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
 <p align = "center">
 
-<!-- GitHub Stats -->
-<img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ausafchaps&show_icons=true&hide_border=true" />
-</p>
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ausafchaps)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **ausafchaps/ausafchaps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
